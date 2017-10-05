@@ -1,4 +1,3 @@
 # hello-world
-Just another depository
 
-Hello there. I like Nando's
+Hello there. I like Nando's and McDonald's
